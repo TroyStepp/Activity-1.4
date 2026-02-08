@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Page-1" id="5smOWk4avbGTLKGN3NSF">
+    <mxGraphModel dx="3023" dy="1805" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tQe7IKPNTi-C8GNQdbeu-12" connectable="0" parent="1" style="group;fontSize=30;" value="" vertex="1">
+          <mxGeometry height="1983" width="1660" x="6" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="tQe7IKPNTi-C8GNQdbeu-2" parent="tQe7IKPNTi-C8GNQdbeu-12" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Make System Put Our Words Into An Array&lt;/font&gt;" vertex="1">
+          <mxGeometry height="189.6311475409836" width="565.6296296296296" x="541.0370370370371" as="geometry" />
+        </mxCell>
+        <mxCell id="tQe7IKPNTi-C8GNQdbeu-3" parent="tQe7IKPNTi-C8GNQdbeu-12" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Have Each Word Compare To &quot;currentWord&quot;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="216.72131147540978" width="553.3333333333334" x="541.0370370370371" y="433.44262295081955" as="geometry" />
+        </mxCell>
+        <mxCell id="tQe7IKPNTi-C8GNQdbeu-4" parent="tQe7IKPNTi-C8GNQdbeu-12" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Print How Many Times Each Word Was Inputted&lt;/font&gt;" vertex="1">
+          <mxGeometry height="216.72131147540978" width="565.6296296296296" x="541.0370370370371" y="812.7049180327868" as="geometry" />
+        </mxCell>
+        <mxCell id="tQe7IKPNTi-C8GNQdbeu-5" parent="tQe7IKPNTi-C8GNQdbeu-12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Success!&lt;/font&gt;" vertex="1">
+          <mxGeometry height="162.54098360655738" width="295.1111111111111" x="676.2962962962963" y="1219.05737704918" as="geometry" />
+        </mxCell>
+        <mxCell id="tQe7IKPNTi-C8GNQdbeu-6" edge="1" parent="tQe7IKPNTi-C8GNQdbeu-12" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=18;endSize=8.15;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1045.185185185185" y="297.99180327868845" />
+            </Array>
+            <mxPoint x="1094.3703703703702" y="243.81147540983605" as="sourcePoint" />
+            <mxPoint x="971.4074074074074" y="379.2622950819672" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQe7IKPNTi-C8GNQdbeu-7" edge="1" parent="tQe7IKPNTi-C8GNQdbeu-12" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=18;endSize=8.15;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1039.037037037037" y="731.4344262295081" />
+            </Array>
+            <mxPoint x="1088.2222222222222" y="677.2540983606556" as="sourcePoint" />
+            <mxPoint x="965.2592592592591" y="812.7049180327868" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQe7IKPNTi-C8GNQdbeu-8" edge="1" parent="tQe7IKPNTi-C8GNQdbeu-12" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=18;endSize=8.15;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1032.888888888889" y="1110.6967213114751" />
+            </Array>
+            <mxPoint x="1082.0740740740741" y="1056.516393442623" as="sourcePoint" />
+            <mxPoint x="959.1111111111111" y="1191.9672131147538" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tQe7IKPNTi-C8GNQdbeu-9" parent="tQe7IKPNTi-C8GNQdbeu-12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Challenges:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Getting The Words to Compare to &quot;currentWord&quot; was a bit of a hassle and took a few tries to get working.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="270.9016393442623" width="774.6666666666666" y="1712.0983606557377" as="geometry" />
+        </mxCell>
+        <mxCell id="tQe7IKPNTi-C8GNQdbeu-10" parent="tQe7IKPNTi-C8GNQdbeu-12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;How Will I Perform Frequency Analysis Of A Website:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Assuming it&#39;s for an online store; instead of storing words in an array, I&#39;d be storing finalized purchases. This will allow the owner of the website to view how many of each item has been sold.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="270.9016393442623" width="774.6666666666666" x="885.3333333333334" y="1712.0983606557377" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
