@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+public class Main {
+
+    public static int getWordFrequency(String[] wordsList, int listSize, String currWord) {
+        int count = 0;
+
+        for (int i = 0; i < listSize; i++) {
+            if (wordsList[i].equalsIgnoreCase(currWord)) {
+                count++;
+            }
+        }
+
+        return count;
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        String inputLine = sc.nextLine();
+
+        String[] words = inputLine.split(" ");
+        int size = words.length;
+
+        for (int i = 0; i < size; i++) {
+            int freq = getWordFrequency(words, size, words[i]);
+            System.out.println(words[i] + " " + freq);
+        }
+
+        sc.close();
+    }
+}
